@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Abdul 
+
 - 👀 I’m interested in Coding and Web as well as App Development. 
 - 🌱 I’m currently learning React
 - 📫 You can reach me on 
