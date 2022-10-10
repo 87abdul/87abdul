@@ -6,10 +6,7 @@
 - LinkedIn  : www.linkedin.com/in/abdul-rahman1
 - Instagram : https://www.instagram.com/abdul.rahman2.0/
 - Email : abdul.armdb@gmail.com
-
-[![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=87abdul)](https://github.com/87abdul/github-readme-stats)
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=87abdul&count_private=true)
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=87abdul&show_icons=true)
+- 
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=87abdul&show_icons=true&theme=onedark)
 <!---
 87abdul/87abdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
