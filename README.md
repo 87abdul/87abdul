@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
  <br/>
 
-## 👨🏻‍💻 About Me:
+### 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
