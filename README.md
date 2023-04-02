@@ -52,3 +52,11 @@ You can click the Preview link to take a look at your changes.
 ## 📊 My GitHub Data:
 
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=87abdul&show_icons=true&theme=onedark)
+                                                                                                                                               
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=87abdul&icon=9&color=6)](https://visitcount.itsvg.in)                                                                              
+<!--                                                                                                                                                ![Profile views](https://api.countapi.xyz/hit/87abdul/profile-views) -->
+                                                                                                                                               
