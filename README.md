@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on `Something Intresting `.
+- 🔭 I’m currently working on `Something Intresting ` and `Novice App Developer`.
 
 - 🌱 I’m currently learning `MERN Stack`
 
