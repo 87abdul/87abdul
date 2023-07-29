@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🔭 I’m currently working on `Something Intresting ` and `Novice App Developer`.
+- 🔭 I’m currently working on `Problem Solving ` in `DSA`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m a  `MERN Stack` Developer
 
 
 ## 🛠️ Technologies and Tools I use:
