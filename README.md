@@ -1,8 +1,8 @@
 
-<!---
+<!--
 87abdul/87abdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Abdul Rahman</h1>
 
 
@@ -52,5 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 --- -->
 [![](https://visitcount.itsvg.in/api?id=87abdul&icon=9&color=6)](https://visitcount.itsvg.in)                                                                              
-<!--                                                                                                                                                ![Profile views](https://api.countapi.xyz/hit/87abdul/profile-views) -->
+<!--                                                                                                                                                ![Profile views](https://api.countapi.xyz/hit/87abdul/profile-views) 
+
+-->
                                                                                                                                                
